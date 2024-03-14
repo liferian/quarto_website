@@ -1,0 +1,5 @@
+---
+title: "Jake Rosenblatt's Resume"
+---
+
+{{< pdf "resume/Finance_Resume.pdf" width=100% height=800 >}}

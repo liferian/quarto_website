@@ -1,0 +1,13 @@
+---
+title: "Jake Rosenblatt"
+image: "images/headshot.jpg"
+about: 
+  template: jolla
+  links: 
+    - icon: envelope
+      href: mailto:rosenblattjake@gmail.com
+    - icon: linkedin
+      href: https://www.linkedin.com/in/jake-rosenblatt-4774b0128/
+---
+
+Hi my name is Jake
