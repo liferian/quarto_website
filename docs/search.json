@@ -14,6 +14,13 @@
     "text": "Hi my name is Jake"
   },
   {
+    "objectID": "blog/project2/index.html",
+    "href": "blog/project2/index.html",
+    "title": "Project 2",
+    "section": "",
+    "text": "Project 2\nThis is a test"
+  },
+  {
     "objectID": "blog/project1/index.html",
     "href": "blog/project1/index.html",
     "title": "This is Project 1",
@@ -39,7 +46,7 @@
     "href": "blog.html",
     "title": "My Projects",
     "section": "",
-    "text": "This is Project 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "This is Project 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resume/Rmarkdown Resume.html",

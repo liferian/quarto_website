@@ -16,5 +16,8 @@
   },
   "blog.qmd": {
     "blog.html": "98c6b08b"
+  },
+  "blog/project2/index.qmd": {
+    "index.html": "a8fe02a7"
   }
 }
